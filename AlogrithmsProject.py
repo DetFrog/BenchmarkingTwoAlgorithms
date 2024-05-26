@@ -1,12 +1,3 @@
-#Notice: that all the project and its parts in this File
-
-#CS216 Algorithm Project For class 171 / 173   Feb/2024 IMSIU
-#Hassan Alyemni 443017540
-#Saleh Alobaylan 443014070
-#Omar Alnosayan 443014712
-#Rakan Alhamdan 443017930
-
-
 
 # Part 1:
 # a
